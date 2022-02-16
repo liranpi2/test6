@@ -1,0 +1,3 @@
+[submodule "DSInternals"]
+	path = DSInternals
+	url = https://github.com/MichaelGrafnetter/DSInternals.git
